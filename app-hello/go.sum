@@ -1,0 +1,6 @@
+github.com/rangguy/go-hello v1.0.0 h1:ydoxWv9ksPNdzp/8Z406dD6RKQG/+fAAY80q59saYxI=
+github.com/rangguy/go-hello v1.0.0/go.mod h1:K5m49YzulKM6q7EtWQv8d2S6yO1srKQKKCZhpOyrIng=
+github.com/rangguy/go-hello v1.5.0 h1:CDmWenZEYp/t7B70RCTuaB2oRtrSkP5JSrrapreMAW4=
+github.com/rangguy/go-hello v1.5.0/go.mod h1:K5m49YzulKM6q7EtWQv8d2S6yO1srKQKKCZhpOyrIng=
+github.com/rangguy/go-hello/v2 v2.0.0 h1:8W8hJHZo2B5jB3Bkz7rV8K5SlrnqaXVuA9htrOYHymQ=
+github.com/rangguy/go-hello/v2 v2.0.0/go.mod h1:mOr3EXtN+N6zXhJqzFpSH9zc2ARUpaSznfrptn8A5l8=
